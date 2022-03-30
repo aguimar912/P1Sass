@@ -1,0 +1,26 @@
+{
+  "name": "p1sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch styles.scss  styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguimar912/P1Sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguimar912/P1Sass/issues"
+  },
+  "homepage": "https://github.com/aguimar912/P1Sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
