@@ -3,6 +3,10 @@ body {
   background-color: rgba(0, 247, 255, 0.541);
 }
 
+header {
+  border: 1px solid blue;
+}
+
 main ul {
   list-style-type: none;
 }
