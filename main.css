@@ -2,4 +2,48 @@ body {
   margin: 0;
   background-color: rgba(0, 247, 255, 0.541);
 }
+
+main ul {
+  list-style-type: none;
+}
+
+main ul li:nth-child(1) {
+  color: #d30f2f;
+}
+
+main ul li:nth-child(2) {
+  color: #eb1035;
+}
+
+main ul li:nth-child(3) {
+  color: #f02547;
+}
+
+main ul li:nth-child(4) {
+  color: #f13d5b;
+}
+
+main ul li:nth-child(5) {
+  color: #f3546f;
+}
+
+main ul li:nth-child(6) {
+  color: #f56c83;
+}
+
+main ul li:nth-child(7) {
+  color: #f68497;
+}
+
+main ul li:nth-child(8) {
+  color: #f89cab;
+}
+
+main ul li:nth-child(9) {
+  color: #fab4bf;
+}
+
+main ul li:nth-child(10) {
+  color: #fbccd4;
+}
 /*# sourceMappingURL=main.css.map */
